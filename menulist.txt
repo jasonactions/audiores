@@ -1,3 +1,3 @@
-https://raw.githubusercontent.com/jasonactions/audiores/main/houhuiwuqi.mp3
-https://raw.githubusercontent.com/jasonactions/audiores/main/maque.mp3
-https://raw.githubusercontent.com/jasonactions/audiores/main/dongmian.mp3
+https://raw.github.com/jasonactions/audiores/main/dongmian.mp3
+https://raw.github.com/jasonactions/audiores/main/houhuiwuqi.mp3
+https://raw.github.com/jasonactions/audiores/main/maque.mp3
